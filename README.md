@@ -1,5 +1,5 @@
 This project helps SQL developers practice database creation and querying using a Student Management System.
-Tasks
+Tasks:
 Create a StudentManagement database.
 Design a Students table with fields:
 StudentID (Primary Key, INT, auto-increment), Name, Gender, Age, Grade, MathScore, ScienceScore, EnglishScore.
