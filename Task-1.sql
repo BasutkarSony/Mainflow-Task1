@@ -1,4 +1,4 @@
-# Creating a Database
+# Creating a Database.
 create database studentmanagement;
 
 # Creating a table students
